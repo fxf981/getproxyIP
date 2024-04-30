@@ -1,7 +1,6 @@
 import requests
+from bs4 import BeautifulSoup
 import socket
-import time
-import os
 
 PROXY_URL = "https://www.freeproxy.world/?type=socks5&anonymity=&country=US&speed=&port=&page={}"
 PROXY_FILE = "proxy_list.txt"
@@ -11,9 +10,16 @@ def get_proxy_list():
     for page in range(1, 11):
         url = PROXY_URL.format(page)
         response = requests.get(url)
-        # 使用正则表达式或 BeautifulSoup 解析代理 IP 和端口
-        proxies = /* 解析代理列表 */
-        proxy_list.extend(proxies)
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        table = soup.find("table", {"class": "table table-striped table-bordered"})
+        if table:
+            for row in table.find_all("tr")[1:]:
+                cols = row.find_all("td")
+                ip = cols[0].text.strip()
+                port = cols[1].text.strip()
+                proxy_list.append(f"{ip}:{port}")
+
     return proxy_list
 
 def check_proxy_availability(proxy):
