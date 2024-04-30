@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: checkout  # 步骤的名称，用于检出存储库
+      uses: actions/checkout@v4.1.1  # 使用指定版本的checkout操作
       with:
         fetch-depth: 0 # 需要设置 fetch-depth 为 0 才能推送更改
 
