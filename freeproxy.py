@@ -16,7 +16,7 @@ def check_proxy(proxy):
             country = ip_info.get("country")
             org = ip_info.get("org")
             if country:
-                proxy_info = f"http://{proxy}#{country}--{org}"
+                proxy_info = f"{proxy}#{country}--{org}"
                 return proxy_info
     except Exception as e:
         pass
@@ -35,11 +35,9 @@ for page in tqdm(range(1, 20)):  # 使用tqdm显示进度条
         if len(cells) >= 2:
             ip = cells[0].text.strip()
             port = cells[1].text.strip()
-            proxy = f"{ip}:{port}"
+            proxy = f"http://{ip}:{port}"
             proxy_list.append(proxy)
-        else:
-            # print(f"警告: 第{len(proxy_list) + 1}行数据格式不正确,已跳过。")
-            continue
+
 
 if proxy_list:
     validated_proxies = []
