@@ -7,7 +7,7 @@ PROXY_FILE = "proxy_list.txt"
 
 def get_proxy_list(page):
     """获取指定页码的代理IP列表"""
-    url = f"https://proxylist.geonode.com/api/proxy-list?limit=50&page={page}&sort_by=lastChecked&sort_type=desc"
+    url = f"https://proxylist.geonode.com/api/proxy-list?limit=500&page={page}&sort_by=lastChecked&sort_type=desc"
     response = requests.get(url)
     data = json.loads(response.text)
     return data["data"]
@@ -30,7 +30,7 @@ def check_proxy(proxy):
 def main():
     """主函数"""
     proxy_list = []
-    for page in tqdm(range(1, 20)):  # 使用tqdm显示进度条
+    for page in tqdm(range(1, 10)):  # 使用tqdm显示进度条
         data = get_proxy_list(page)
         if data:
             for entry in data:
