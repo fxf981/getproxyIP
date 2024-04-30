@@ -7,7 +7,7 @@ PROXY_FILE = "proxy_list.txt"
 
 def get_proxy_list(page):
     """获取指定页码的代理IP列表"""
-    url = f"https://proxylist.geonode.com/api/proxy-list?limit=500&page={page}&sort_by=lastChecked&sort_type=desc"
+    url = f"https://proxylist.geonode.com/api/proxy-list?protocols=http&limit=500&page={page}&sort_by=lastChecked&sort_type=desc"
     response = requests.get(url)
     data = json.loads(response.text)
     return data["data"]
