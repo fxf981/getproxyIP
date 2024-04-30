@@ -32,7 +32,8 @@ for page in tqdm(range(1, 11)):  # 使用tqdm显示进度条
             proxy = f"{ip}:{port}"
             proxy_list.append(proxy)
         else:
-            print(f"警告: 第{len(proxy_list) + 1}行数据格式不正确,已跳过。")
+            # print(f"警告: 第{len(proxy_list) + 1}行数据格式不正确,已跳过。")
+            print()
 
 if proxy_list:
     validated_proxies = []
