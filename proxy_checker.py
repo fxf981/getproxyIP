@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 PROXY_FILE = "proxy_list.txt"
 
+
 proxy_list = []
 
 for page in range(1, 11):
