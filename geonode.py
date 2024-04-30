@@ -10,6 +10,7 @@ def get_proxy_list(page):
     url = f"https://proxylist.geonode.com/api/proxy-list?limit=50&page={page}&sort_by=lastChecked&sort_type=desc"
     response = requests.get(url)
     data = json.loads(response.text)
+    print(data["data"])
     return data["data"]
 
 def check_proxy(proxy):
