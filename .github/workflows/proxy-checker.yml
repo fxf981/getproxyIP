@@ -1,0 +1,36 @@
+name: Proxy Checker
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日 00:00 UTC 运行
+
+jobs:
+
+  check-proxies:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Check proxies
+      run: |
+        node proxy-checker.js
+
+    - name: Commit and push changes
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add proxy-list.txt
+        git commit -m "Update proxy list" || echo "No changes to commit"
+        git push
