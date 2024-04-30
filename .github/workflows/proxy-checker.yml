@@ -20,10 +20,10 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up Python  # 设置Python环境的步骤
+      uses: actions/setup-python@v5.0.0  # 使用指定版本的设置Python操作
       with:
-        python-version: '3.9'
+        python-version: 3.12  # 设置Python版本为3.12
 
     - name: Install dependencies
       run: |
