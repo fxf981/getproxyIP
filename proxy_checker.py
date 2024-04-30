@@ -43,7 +43,7 @@ for page in tqdm(range(1, 20)):  # 使用tqdm显示进度条
 
 if proxy_list:
     validated_proxies = []
-    with concurrent.futures.ThreadPoolExecutor() as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
         results = executor.map(check_proxy, proxy_list)
         for result in tqdm(results, total=len(proxy_list), desc="验证代理中"):  # 使用tqdm显示验证进度
             if result:
