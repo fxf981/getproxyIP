@@ -38,7 +38,7 @@ jobs:
       uses: fscarmen/warp-on-actions@v1.0  # 使用指定版本的WARP操作
 
     - name: Check proxies
-      run: python proxy_checker.py
+      run: python geonode.py
 
     - name: Commit and push changes
       env:
