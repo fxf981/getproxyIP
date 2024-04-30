@@ -20,7 +20,7 @@ def check_proxy(proxy):
 proxy_list = []
 
 for page in tqdm(range(1, 11)):  # 使用tqdm显示进度条
-    url = f'https://www.freeproxy.world/?type=socks5&anonymity=&country=US&speed=&port=&page={page}'
+    url = f'https://www.freeproxy.world/?type=http&anonymity=&country=US&speed=&port=&page={page}'
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
