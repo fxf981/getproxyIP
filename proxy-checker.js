@@ -6,7 +6,7 @@ async function getProxyList() {
     const response = await fetch(`https://www.freeproxy.world/?type=socks5&anonymity=&country=US&speed=&port=&page=${page}`);
     const data = await response.text();
     // 使用正则表达式或 DOM 解析提取代理 IP 和端口
-    const pageProxies = /* 解析代理列表 */;
+    const pageProxies = /* 解析代理列表 */
     proxyList = proxyList.concat(pageProxies);
   }
   return proxyList;
