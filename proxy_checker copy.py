@@ -2,22 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import concurrent.futures
 from tqdm import tqdm  # 导入tqdm库
-import json
 
 PROXY_FILE = "proxy_list.txt"
 
 
 def check_proxy(proxy):
     try:
-        url = "https://ipinfo.io/json"
+        url = "https://httpbin.org/ip"
         response = requests.get(url, proxies={"http": proxy, "https": proxy}, timeout=5)
         if response.ok:
-            ip_info = json.loads(response.text)
-            country = ip_info.get("country")
-            org = ip_info.get("org")
-            if country:
-                proxy_info = f"http://{proxy}#{country}--{org}"
-                return proxy_info
+            return proxy
     except Exception as e:
         pass
     return None
@@ -39,7 +33,7 @@ for page in tqdm(range(1, 20)):  # 使用tqdm显示进度条
             proxy_list.append(proxy)
         else:
             # print(f"警告: 第{len(proxy_list) + 1}行数据格式不正确,已跳过。")
-            continue
+            print()
 
 if proxy_list:
     validated_proxies = []
