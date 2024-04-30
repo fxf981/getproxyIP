@@ -1,50 +1,52 @@
-http://94.182.146.250:8080#US--AS63949 Akamai Connected Cloud
-http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
+http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://34.94.148.191:3128#US--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://37.143.8.84:3128#RU--AS210079 EuroByte LLC
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
+http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://114.69.225.6:83#IN--AS18002 AS Number for Interdomain Routing
+http://158.181.204.159:8080#KG--AS41750 Mega-Line Ltd.
+http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://23.122.184.9:8888#US--AS206092 IPXO LIMITED
+http://47.184.144.115:3128#US--AS5650 Frontier Communications of America, Inc.
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://51.38.38.132:3128#FR--AS16276 OVH SAS
+http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://13.231.157.51:3128#JP--AS16509 Amazon.com, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://201.246.203.197:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://23.225.72.123:3501#US--AS40065 CNSERVERS LLC
 http://140.238.247.9:8100#IN--AS31898 Oracle Corporation
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://13.231.157.51:3128#JP--AS16509 Amazon.com, Inc.
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://34.126.125.90:8080#SG--AS396982 Google LLC
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://41.231.37.76:3128#TN--AS31245 ATI - Agence Tunisienne Internet
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://161.97.97.155:3128#DE--AS51167 Contabo GmbH
 http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://47.184.144.115:3128#US--AS5650 Frontier Communications of America, Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://203.150.128.9:8080#TH--AS4618 Internet Thailand Company Limited
-http://122.3.131.143:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://101.255.158.42:8080#ID--AS38511 PT Remala Abadi
-http://181.209.110.190:999#AR--AS269776 GLOBALWEB S.R.L.
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://191.252.196.14:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://23.162.160.1:16099#US--AS14860 SMARTCOM TELEPHONE, LLC
-http://13.212.175.20:3128#SG--AS16509 Amazon.com, Inc.
-http://203.190.46.83:8080#ID--AS45317 Jaringan Lintas Utara, PT
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://103.141.109.219:8080#ID--AS138886 PT Data Buana Nusantara
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://160.248.3.176:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.3.122:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
