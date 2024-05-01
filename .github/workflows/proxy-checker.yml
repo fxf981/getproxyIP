@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:  # 允许手动触发工作流程
   schedule:
-    - cron: '1 16 * * *'  # 每日 00:00 UTC 运行
+    - cron: '1 23 * * *'  # 每日 00:00 UTC 运行
 
 permissions:
   contents: write  # 允许写入内容
