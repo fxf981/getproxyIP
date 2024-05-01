@@ -1,6 +1,69 @@
+http://67.43.227.227:12103#BR--AS263994 Fullnet Telecomunicações LTDA
+http://67.43.228.253:26561#PE--AS270068 DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://67.43.227.227:12277#BR--AS4230 CLARO S.A.
+http://147.139.213.199:8080#ID--AS45102 Alibaba (US) Technology Co., Ltd.
+http://67.43.228.252:12033#IN--AS55836 Reliance Jio Infocomm Limited
+http://114.103.80.44:8089#CN--AS4134 CHINANET-BACKBONE
+http://67.43.228.253:4277#PK--AS9541 Cyber Internet Services (Pvt) Ltd.
+http://67.43.228.250:2491#US--AS20115 Charter Communications
 http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://72.10.164.178:15079#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://72.10.160.93:6415#IN--AS55836 Reliance Jio Infocomm Limited
+http://67.43.228.250:1797#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://180.232.127.48:3128#PH--AS9658 Eastern Telecoms Phils., Inc.
+http://67.43.227.226:12277#BR--AS4230 CLARO S.A.
+http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
+http://67.43.227.227:6837#IN--AS55836 Reliance Jio Infocomm Limited
+http://67.43.227.227:7785#CR--AS52263 Telecable Economico S.A.
+http://67.43.227.227:7371#BD--AS134732 Dot Internet
+http://67.43.227.227:30785#IQ--AS199739 Earthlink Telecommunications Equipment Trading & Services DMCC
+http://103.75.52.186:8080#ID--AS46023 PT Quantum Tera Network
+http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://72.10.160.170:30355#CA--AS14593 Space Exploration Technologies Corporation
+http://72.10.160.93:29259#AR--AS7303 Telecom Argentina S.A.
+http://67.43.227.227:12135#US--AS23473 PAVLOV MEDIA INC
+http://202.61.246.176:3128#DE--AS197540 netcup GmbH
+http://84.54.191.22:8080#BG--AS59463 Vision 2008 Ltd.
+http://72.10.160.90:14261#PK--AS150371 Pace Telecom and Brodcasting Private Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://67.43.228.253:21921#PE--AS6147 Telefonica del Peru S.A.A.
+http://72.10.160.90:2533#MX--AS8151 UNINET
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://200.125.168.56:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
+http://67.43.228.250:29581#PK--AS141377 Faisal Cable Network (Pvt.) Limited
 http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://201.77.96.153:999#MX--AS265587 HULUX TELECOMUNICACIONES
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://160.248.3.122:3128#JP--AS2514 NTT PC Communications, Inc.
+http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://43.134.14.33:8899#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://201.149.100.32:8085#BR--AS61872 CRZNET TELECOM LTDA
+http://72.10.164.178:19965#GT--AS52362 Servicios Innovadores de Comunicación y Entretenimiento, S.A.
+http://61.162.210.14:1080#CN--AS4134 CHINANET-BACKBONE
+http://39.100.95.124:3128#CN--AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://67.43.227.227:17439#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
+http://72.10.160.90:22625#MX--AS14593 Space Exploration Technologies Corporation
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://72.10.164.178:9451#IN--AS55836 Reliance Jio Infocomm Limited
+http://103.44.116.90:8000#IN--AS133724 Swastik Internet and Cables pvt. ltd.
+http://67.43.227.227:14133#RU--AS197023 MTS PJSC
+http://67.43.227.227:29339#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://72.10.164.178:1953#CA--AS54614 CIK Telecom INC
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://67.43.227.227:19999#US--AS10796 Charter Communications Inc
+http://103.168.164.94:83#IN--AS147236 SSICON SYSTEMS PRIVATE LIMITED
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://72.10.160.90:12409#BR--AS8167 V tal
+http://54.38.187.177:443#FR--AS16276 OVH SAS
+http://67.43.227.227:28817#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
+http://190.14.225.15:8080#CO--AS27951 Media Commerce Partners S.A
+http://67.43.227.227:19411#PE--AS6147 Telefonica del Peru S.A.A.
+http://103.54.43.131:8080#BD--AS134116 Md. Manzurul Haque Khan T/A THE NET HEADS
+http://91.210.228.148:8080#RU--AS48371 Westlan LTD
+http://203.150.128.51:8080#TH--AS4618 Internet Thailand Company Limited
+http://67.43.236.20:8053#AE--AS5384 EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC
+http://72.10.164.178:1265#PE--AS6147 Telefonica del Peru S.A.A.
+http://67.43.228.253:33097#ID--AS7713 PT Telekomunikasi Indonesia
+http://121.146.251.236:3128#KR--AS4766 Korea Telecom
