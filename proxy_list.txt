@@ -1,29 +1,22 @@
-http://49.7.38.151:45149#CN--AS23724 IDC, China Telecommunications Corporation
-http://109.236.91.104:3128#NL--AS49981 WorldStream B.V.
-http://49.7.38.151:45212#CN--AS23724 IDC, China Telecommunications Corporation
+http://103.231.239.18:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://172.245.12.62:34567#US--AS36352 HostPapa
-http://49.7.38.123:45212#CN--AS23724 IDC, China Telecommunications Corporation
-http://144.76.68.148:10801#DE--AS28753 Leaseweb Deutschland GmbH
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://212.127.78.30:39811#PL--AS35179 Korbank S. A.
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
 http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.143.168.58:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://102.222.252.182:9999#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.245.12.58:34567#US--AS36352 HostPapa
-http://188.132.221.170:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://45.188.164.47:999#MX--AS265605 VELOCOM SA DE CV
-http://115.124.75.58:8080#ID--AS38511 PT Remala Abadi
-http://95.154.124.114:58000#RU--AS44724 Octopusnet LTD
-http://106.227.87.11:3128#CN--AS149837 China Telecom
-http://172.245.10.130:34567#US--AS36352 HostPapa
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://20.119.77.88:8181#US--AS8075 Microsoft Corporation
+http://91.136.142.153:8080#DE--AS41585 ELEMENTMEDIA GmbH
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
 http://185.222.115.66:31280#GB--AS60800 Netwise Hosting Ltd
-http://103.184.56.110:8080#ID--AS149667 PT Gading Bhakti Utama
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://83.244.33.34:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://103.48.71.70:83#IN--AS136290 Country Online Services PVT LTD
-http://193.30.13.18:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://202.189.11.149:8123#CN--AS139180 Shandong eshinton Network Technology Co., Ltd.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://104.238.222.54:3128#US--AS23470 ReliableSite.Net LLC
