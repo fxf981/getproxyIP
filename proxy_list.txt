@@ -1,42 +1,40 @@
-http://72.10.164.178:21447#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
-http://67.43.228.253:29677#PH--AS4775 Globe Telecoms
-http://160.248.185.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://204.199.132.195:999#CL--AS3549 Level 3 Parent, LLC
-http://67.43.228.253:19103#PH--AS9299 Philippine Long Distance Telephone Company
-http://160.248.91.87:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.90.225:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.188.252:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.185.14:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.231.239.166:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://67.43.236.20:28481#MX--AS8151 UNINET
+http://160.248.9.141:3128#JP--AS2514 NTT PC Communications, Inc.
+http://27.147.138.131:58080#BD--AS23688 Link3 Technologies Ltd.
+http://27.147.142.138:58080#BD--AS23688 Link3 Technologies Ltd.
+http://72.10.164.178:14831#PE--AS12252 America Movil Peru S.A.C.
+http://188.245.38.6:3128#DE--AS24940 Hetzner Online GmbH
 http://161.34.39.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://67.43.227.227:13039#AU--AS1221 Telstra Limited
-http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.159:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
-http://72.10.160.171:11975#JP--AS2527 Sony Network Communications Inc.
-http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
-http://139.0.6.12:8080#ID--AS9905 Linknet ASN
-http://103.166.197.34:3128#ID--AS38758 PT. HIPERNET INDODATA
+http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.37.93:3128#JP--AS2514 NTT PC Communications, Inc.
+http://72.10.164.178:24035#ID--AS45727 Hutchison CP Telecommunications, PT
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://38.7.131.33:999#DO--AS272040 SERVICIOS NUÑEZ EIRL
-http://67.43.227.228:27305#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://186.166.138.50:999#VE--AS6306 TELEFONICA VENEZOLANA, C.A.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://43.153.214.81:9999#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.69.243.162:43826#IN--AS135762 Clear Beam Communications Pvt. Ltd.
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://131.196.42.95:667#BR--AS52872 VOANET Telecomunicações Ltda.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://172.245.12.56:34567#US--AS36352 HostPapa
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.239.175.90:1111#IN--AS138225 One Eight Technologies Private Limited
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
+http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
 http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://106.227.87.11:3128#CN--AS149837 China Telecom
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
 http://45.12.214.202:3128#NL--AS204601 Zomro B.V.
-http://180.191.23.221:8081#PH--AS9299 Philippine Long Distance Telephone Company
+http://103.10.71.81:80#ID--AS150210 PT Wadma Berkah Sedaya
 http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://83.244.33.34:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
-http://45.112.127.222:9191#ID--AS58369 PT. Fiber Networks Indonesia
-http://103.163.244.49:83#IN--AS132746 Infolink System
+http://201.77.108.72:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.121.128.246:10186#CA--AS16276 OVH SAS
