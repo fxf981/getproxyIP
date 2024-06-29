@@ -1,56 +1,29 @@
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.165.156.171:8090#ID--AS136873 MEGADATA-ISP
-http://190.110.36.184:999#DO--AS271968 CENTRIC MOBILITY (CEMO), S.R.L
 http://103.106.219.132:1111#ID--AS137329 PT. ARTHA LINTAS DATA MANDIRI
+http://191.243.46.154:43241#BR--AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME
 http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://187.102.217.4:999#AR--AS270004 CRETTON LISANDRO MAXIMILIANO (MISIOTECH)
-http://27.75.99.238:4002#VN--AS7552 Viettel Group
-http://103.231.239.166:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://161.34.39.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.5.196.62:9898#BR--AS266105 RPNET INFORMATICA LTDA - ME
+http://86.101.159.147:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.159:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
-http://67.43.227.228:30801#VN--AS18403 FPT Telecom Company
-http://27.147.145.185:58080#BD--AS23688 Link3 Technologies Ltd.
 http://161.34.37.93:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.231.239.137:58080#BD--AS63526 Systems Solutions & development Technologies Limited
 http://161.34.37.90:3128#JP--AS2514 NTT PC Communications, Inc.
-http://67.43.236.20:14395#CL--AS27651 ENTEL CHILE S.A.
+http://191.97.16.74:999#VE--AS264844 INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)
+http://27.147.159.221:58080#BD--AS23688 Link3 Technologies Ltd.
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://191.97.16.19:999#VE--AS264844 INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
 http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://43.252.236.157:8080#ID--AS55701 PT. Usaha Adisanggoro
-http://102.222.252.182:9999#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://187.188.101.205:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://37.204.209.198:8080#RU--AS42610 PJSC Rostelecom
+http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.117.56.151:8080#GE--AS20771 Caucasus Online Ltd.
-http://103.247.22.237:3127#ID--AS58485 WIFIAN ID
-http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
-http://201.184.107.26:999#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
+http://67.43.236.20:11689#VE--AS21826 Corporación Telemic C.A.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://188.132.221.170:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://115.124.75.58:8080#ID--AS38511 PT Remala Abadi
-http://185.85.161.214:8080#RU--AS43684 OTK LLC
-http://191.102.254.12:8085#AR--AS262934 IP·RED
-http://89.188.110.196:8080#RU--AS29076 Citytelecom LLC
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://91.136.142.153:8080#DE--AS41585 ELEMENTMEDIA GmbH
-http://124.105.24.80:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://189.124.91.145:7171#BR--AS28287 FIT Telecom Eireli
-http://139.167.54.114:8081#IN--AS55836 Reliance Jio Infocomm Limited
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
+http://152.32.67.243:10101#PH--AS17639 Converge ICT Solutions Inc.
+http://103.10.71.81:80#ID--AS150210 PT Wadma Berkah Sedaya
 http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.131.19.43:8080#ID--AS138089 PT.Global Media Data Prima
-http://181.209.82.202:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
