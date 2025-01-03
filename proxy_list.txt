@@ -1,70 +1,59 @@
-http://58.187.87.75:14025#VN--AS18403 FPT Telecom Company
-http://49.73.4.180:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://194.163.187.170:3128#DE--AS51167 Contabo GmbH
-http://121.227.109.0:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://49.73.4.159:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://180.107.218.49:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://49.70.172.215:8089#CN--AS4134 CHINANET-BACKBONE
-http://58.187.87.75:14018#VN--AS18403 FPT Telecom Company
-http://58.187.87.75:14027#VN--AS18403 FPT Telecom Company
-http://77.221.151.186:3128#RU--AS216246 Aeza Group LLC
-http://67.43.228.253:14427#CA--AS812 Rogers Communications Canada Inc.
-http://180.107.218.22:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://180.127.145.251:1080#CN--AS4134 CHINANET-BACKBONE
-http://38.156.235.113:999#DO--AS272882 BITNET DOMINICANA, S.R.L.
-http://186.237.131.122:8080#BR--AS28330 IFTNET Telecomunicacoes Ltda
-http://58.187.87.75:14004#VN--AS18403 FPT Telecom Company
-http://180.107.218.36:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://121.101.133.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://116.107.124.144:10089#VN--AS7552 Viettel Group
-http://125.26.99.41:8080#TH--AS23969 TOT Public Company Limited
+http://103.240.7.13:20083#VN--AS151853 GIZA NETWORK LIMITED
+http://185.105.88.231:3128#RU--AS205090 FIRST SERVER LIMITED
+http://180.112.180.69:8089#CN--AS4134 CHINANET-BACKBONE
+http://36.91.208.219:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://169.56.21.242:8080#JP--AS36351 SoftLayer Technologies Inc.
+http://67.43.227.229:27263#PK--AS17557 Pakistan Telecommunication Company Limited
+http://182.253.26.196:8080#ID--AS9340 INDO Internet, PT
+http://103.106.240.1:96#BD--AS137385 Saddam Hossain t/a Asian Network
+http://49.73.4.145:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://124.217.111.20:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://38.242.245.172:3128#DE--AS51167 Contabo GmbH
+http://203.189.96.232:80#JP--AS7506 GMO Internet Group, Inc.
+http://223.197.178.186:3128#HK--AS4760 HKT Limited
+http://103.231.239.166:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://101.255.118.9:3127#ID--AS149360 PT Indo Telemedia Solusi
+http://72.10.164.178:15903#VE--AS271855 MANGO NETWORK, C. A. MANGONET, C. A,
+http://103.55.22.231:8080#ID--AS150490 PT General Media Network
+http://67.43.228.251:12755#AU--AS38172 IPSTAR Australia Pty Ltd.
+http://122.2.79.174:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://38.183.146.31:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://79.121.102.227:8080#HU--AS5483 Magyar Telekom plc.
+http://118.179.50.70:80#BD--AS23956 AmberIT Limited
+http://103.186.193.131:8084#ID--AS149713 PT Lentera Digital Nusantara
+http://67.43.227.227:25693#US--AS395748 NetSpeed LLC
+http://115.72.168.22:10015#VN--AS7552 Viettel Group
+http://49.73.4.146:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://180.107.218.24:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://103.155.169.69:8299#ID--AS141065 PT Arozak Bima Yudho Sangkara
 http://49.73.4.157:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://58.187.87.75:14015#VN--AS18403 FPT Telecom Company
-http://203.115.124.75:8080#IN--AS17426 Primesoftex Ltd
-http://186.207.191.213:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://121.101.131.67:1111#ID--AS131706 PT SELARAS CITRA TERABIT
-http://180.107.218.34:8089#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://58.187.87.75:14012#VN--AS18403 FPT Telecom Company
-http://103.234.26.113:8080#BD--AS38200 BTS Communications (BD) ltd,
-http://27.189.131.104:8089#CN--AS4134 CHINANET-BACKBONE
-http://103.47.175.161:83#IN--AS133676 Precious netcom pvt ltd
-http://49.48.40.204:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://103.172.42.121:8080#ID--AS142393 PT Media Solusi Sukses
-http://152.36.205.98:8080#AF--AS138322 Afghan Wireless Communication Company
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://58.187.87.75:14016#VN--AS18403 FPT Telecom Company
-http://58.187.87.75:14022#VN--AS18403 FPT Telecom Company
-http://202.57.26.150:7777#ID--AS140469 PT Wahyu Adidaya Network
-http://165.16.55.19:44444#LY--AS37284 Aljeel Aljadeed For Technology
-http://183.178.50.58:8080#HK--AS9269 Hong Kong Broadband Network Ltd.
-http://199.116.62.148:9999#PR--AS21559 OSNET Wireless
-http://77.235.31.24:8080#KG--AS41750 Mega-Line Ltd.
-http://103.188.252.65:1234#ID--AS149737 PT Data Lintas Media Indonesia
-http://58.187.87.75:14007#VN--AS18403 FPT Telecom Company
-http://27.189.132.136:8089#CN--AS4134 CHINANET-BACKBONE
-http://176.100.216.164:8282#RU--AS57489 LLC "Telecom-Uslugi"
-http://58.187.87.75:14010#VN--AS18403 FPT Telecom Company
-http://43.243.174.26:82#IN--AS134254 Shah Infinite Solutions Pvt. Ltd.
-http://200.201.134.188:8787#BR--AS11432 Telium Telecomunicações Ltda
-http://203.177.140.18:8082#PH--AS4775 Globe Telecoms
-http://67.43.228.252:11195#VN--AS24086 Viettel Corporation
-http://190.69.157.208:999#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC
-http://190.106.118.221:999#DO--AS262221 ESTRELA TELECOM
-http://72.10.164.178:26443#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
-http://58.187.87.75:14005#VN--AS18403 FPT Telecom Company
-http://171.228.159.146:10089#VN--AS7552 Viettel Group
-http://103.165.155.22:2016#ID--AS141921 PT Jaringan Keluarga Bersama
-http://67.43.228.251:23625#KW--AS29357 NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.
-http://23.128.168.7:999#PR--AS400154 Thundernet Wireless
-http://36.67.114.94:8187#ID--AS7713 PT Telekomunikasi Indonesia
-http://181.209.82.198:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://103.106.231.188:41886#GB--AS61317 Hivelocity LLC
-http://114.130.153.122:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
-http://72.10.160.90:15167#AU--AS10143 Exetel Pty Ltd
-http://67.43.227.227:8917#PY--AS27895 Núcleo S.A.
-http://58.69.117.149:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://67.43.228.250:20019#NZ--AS45177 Devoli
-http://45.230.51.4:999#CL--AS266731 TELECOMUNICACIONES MAURICIO ANDRES KASENDRA LARENAS E.I.R.L.
-http://103.186.92.131:8069#ID--AS149697 PT Global Internet Solusindo
-http://122.53.238.94:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://103.167.170.62:1111#ID--AS141983 PT Rajeg Media Telekomunikasi
+http://110.49.34.126:32650#TH--AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+http://67.43.236.18:6763#AR--AS7303 Telecom Argentina S.A.
+http://103.247.23.231:1111#ID--AS58485 WIFIAN ID
+http://72.10.160.91:28565#TH--AS205676 Data Center Experts LTD
+http://67.43.236.19:2687#CL--AS27901 Pacifico Cable SPA.
+http://116.68.170.115:8019#ID--AS56246 PT Sumber Data Indonesia
+http://103.169.128.148:8080#ID--AS142342 PT Media Akses Data
+http://201.252.56.188:9080#AR--AS265798 LEVEL SEVEN SRL
+http://210.79.146.106:8085#ID--AS152045 PT Petabyte Network Indonesia
+http://72.10.160.93:17841#CR--AS52263 Telecable Economico S.A.
+http://103.91.62.193:80#IN--AS136356 Purenet Telecom India Pvt. Ltd.
+http://27.189.131.188:8089#CN--AS4134 CHINANET-BACKBONE
+http://72.10.160.94:22059#PH--AS17639 Converge ICT Solutions Inc.
+http://67.43.236.19:21221#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://72.10.160.90:26931#CO--AS27831 Colombia Móvil
+http://67.43.227.228:4677#US--AS10796 Charter Communications Inc
+http://72.10.160.170:28997#ID--AS7713 PT Telekomunikasi Indonesia
+http://211.38.54.81:3034#KR--AS4766 Korea Telecom
+http://45.249.77.145:83#IN--AS150008 Pioneer Elabs Ltd.
+http://103.191.165.4:7777#ID--AS149925 PT Sakti Wijaya Network
+http://181.78.216.90:999#PY--AS52468 UFINET PANAMA S.A.
+http://103.75.85.126:1080#ID--AS136873 MEGADATA-ISP
+http://185.82.99.124:8080#LB--AS42183 NET 360 S.A.R.L
+http://115.72.175.186:10003#VN--AS7552 Viettel Group
+http://1.4.147.171:8080#TH--AS23969 TOT Public Company Limited
+http://83.222.8.224:8080#RU--AS9123 TimeWeb Ltd.
+http://27.189.134.235:8089#CN--AS4134 CHINANET-BACKBONE
+http://101.109.143.181:8080#TH--AS23969 TOT Public Company Limited
+http://202.57.25.127:8080#ID--AS140469 PT Wahyu Adidaya Network
+http://103.82.233.2:53281#ID--AS9340 INDO Internet, PT
